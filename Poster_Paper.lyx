@@ -199,12 +199,12 @@ bfseries, boxsep=5mm
 \begin_layout Standard
 \noindent
 \begin_inset Flex Dynamic Color Box
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 colback=gray!5!white, coltext=black
@@ -234,9 +234,9 @@ This is a hand-crafted poster heading with two potential logo placeholders.
 \begin_inset Tabular
 <lyxtabular version="3" rows="2" columns="3">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="middle" width="11line%">
-<column alignment="center" valignment="top" width="74line%">
-<column alignment="left" valignment="middle" width="11line%">
+<column alignment="left" valignment="middle" width="9line%">
+<column alignment="center" valignment="top" width="78line%">
+<column alignment="left" valignment="middle" width="9line%">
 <row>
 <cell multirow="3" alignment="left" valignment="middle" usebox="none">
 \begin_inset Text
@@ -244,7 +244,7 @@ This is a hand-crafted poster heading with two potential logo placeholders.
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename /home/fidencio/Descargas/Logo-UV.jpeg
-	width 9cm
+	width 8cm
 
 \end_inset
 
@@ -261,6 +261,9 @@ This is a hand-crafted poster heading with two potential logo placeholders.
 status open
 
 \begin_layout Plain Layout
+
+\series bold
+\size huge
 Brownian dynamics simulations for charged fluids using the Wolf potential
 \end_layout
 
@@ -278,7 +281,7 @@ Brownian dynamics simulations for charged fluids using the Wolf potential
 \align center
 \begin_inset Graphics
 	filename /home/fidencio/Documentos/Paper-Tesis-Doctorado/Dinamica-Browniana/descarga.jpeg
-	width 9cm
+	width 8cm
 
 \end_inset
 
@@ -310,10 +313,8 @@ Brownian dynamics simulations for charged fluids using the Wolf potential
 
 \begin_layout Plain Layout
 
-\size larger
+\size large
 Fidencio Pérez Hernández
-\size default
-
 \begin_inset script superscript
 
 \begin_layout Plain Layout
@@ -322,11 +323,7 @@ Fidencio Pérez Hernández
 
 \end_inset
 
-
-\size larger
 , Claudio Contreras Aburto
-\size default
-
 \begin_inset script superscript
 
 \begin_layout Plain Layout
@@ -335,11 +332,25 @@ Fidencio Pérez Hernández
 
 \end_inset
 
+, José Marcos Falcón González
+\begin_inset script superscript
 
-\size larger
- and Ramón Castañeda Priego
-\size default
+\begin_layout Plain Layout
+3
+\end_layout
 
+\end_inset
+
+, Alejandro Gil-Villegas
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+
+, Ramón Castañeda Priego
 \begin_inset script superscript
 
 \begin_layout Plain Layout
@@ -376,6 +387,23 @@ Fidencio Pérez Hernández
  Facultad de Fı́sica, Universidad Veracruzana, Paseo No.
  112, Desarrollo Habitacional, Nuevo Xalapa, Xalapa-Enriquez, 91097, Veracruz,
  Mexico.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+
+Unidad Profesional Interdisciplinaria de Ingeniería, Campus Guanajuato,
+ Instituto Politécnico Nacional, Av.
+ Mineral de Valenciana No.
+ 200, Col.
+ Fraccionamiento Industrial Puerto Interior, 36275, Silao de la Victoria,
+ Guanajuato, Mexico.
 \end_layout
 
 \end_inset
@@ -982,7 +1010,7 @@ Box 4, left
 
 \begin_layout Standard
 \begin_inset Flex Color Box
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Argument 1
